@@ -1,0 +1,8 @@
+{
+  "name": "echo-colored",
+  "version": "0.0.1",
+  "description": "Terminal utility function",
+  "scripts": [ "echo-colored.sh" ],
+  "install": "make install",
+  "global": "true"
+}
